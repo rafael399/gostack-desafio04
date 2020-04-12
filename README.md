@@ -28,13 +28,13 @@ Pego de Rocketseat **[Desafio04](https://github.com/Rocketseat/bootcamp-gostack-
   <a href="#memo-licença">Licença</a>
 </p>
 
-<!-- ## :question: Como rodar o desafio
+## :question: Como rodar o desafio
 
 - Clonar repositório
 - Rodar o comando `yarn` para fazer a instalação das dependencias
 - Caso você esteja emulando no iOS, na pasta do seu projeto navegue até a pasta ios executando o comando `cd ios` e depois execute `pod install` para instalar todas as dependências para o iOS.
-- Caso queira rodar a aplicação, você deve clonar e rodar o **[Backend](https://github.com/rafael399/gostack-desafio02)** e depois rodar o comando `yarn start` na pasta da da aplicação
-- Caso queira rodar apenas os testes automatizados, rode o comando `yarn test` -->
+- Caso queira rodar a aplicação, você deve clonar e rodar o **[Backend](https://github.com/rafael399/gostack-desafio02)**, adicionar alguns repositorios através do Insomnia ou do **[Frontend Web](https://github.com/rafael399/gostack-desafio03)** e depois rodar o comando `yarn ios` ou `yarn android` na pasta da da aplicação
+- Caso queira rodar apenas os testes automatizados, rode o comando `yarn test`
 
 ## :rocket: Sobre o desafio
 
